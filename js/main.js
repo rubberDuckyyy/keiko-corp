@@ -19,11 +19,6 @@ $(document).ready(function(){
 
 
 
-
-
-
-
-
 	//Show & Hide menu on mobile
 	$('.burger_icon').click(function(){
 		$('header nav').toggleClass('show');
@@ -31,10 +26,6 @@ $(document).ready(function(){
 	});
 
 	
-
-
-
-
 
 
 	//wow.js on scroll animations initialization
@@ -46,9 +37,6 @@ $(document).ready(function(){
 		}
 	);
 	wow.init();
-
-
-
 
 
 
